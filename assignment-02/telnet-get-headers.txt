@@ -1,0 +1,7 @@
+GET /httpTelnet1 HTTP/1.1
+Host: 1-dot-mi-mdw-1071.appspot.com
+User-Agent: fit-telnet
+Accept: text/html
+Accept-Charset: utf-8
+Accept-Language: en-US
+
