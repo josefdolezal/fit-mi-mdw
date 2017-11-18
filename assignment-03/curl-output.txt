@@ -1,0 +1,11 @@
+vagrant@mi-mdw:~$ curl localhost:7001/assignment-03/booking
+Your booking is accepted. Your order ID: 178884832. Awaiting payment..
+
+vagrant@mi-mdw:~$ curl --cookie "SESSION_ID=178884832" localhost:7001/assignment-03/booking
+Thank you for payment, proceed to booking summary.
+
+vagrant@mi-mdw:~$ curl --cookie "SESSION_ID=178884832" localhost:7001/assignment-03/booking
+Your booking is completed, see you next time.
+
+vagrant@mi-mdw:~$ curl --cookie "SESSION_ID=178884832" localhost:7001/assignment-03/booking # session is removed
+Your booking is accepted. Your order ID: 19236675. Awaiting payment..
