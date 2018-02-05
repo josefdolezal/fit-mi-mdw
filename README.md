@@ -1,6 +1,6 @@
-# MI-MDW: Webové služby a middleware
+# MI-MDW: Webové služby a middleware 2017/18
 
-Repozitář domácím úlohám předmětu MI-MDW, vyučovaného na FIT ČVUT (@FIT_CTU).
+Repozitář s domácími úlohami předmětu MI-MDW, vyučovaného na FIT ČVUT (@FIT_CTU).
 Seznam materiálů k ostatním předmětům je v [samostatném repozitáři](https://github.com/josefdolezal/fit-cvut).
 
 | Přednášející | Cvičící         | Běh předmětu |
